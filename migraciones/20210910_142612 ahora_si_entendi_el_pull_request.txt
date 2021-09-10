@@ -1,0 +1,17 @@
+10/9/2021 14:26:12
+Edison
+
+####################################
+
+Haciendo ping a google.com [142.250.217.174] con 32 bytes de datos:
+Respuesta desde 142.250.217.174: bytes=32 tiempo=76ms TTL=113
+Respuesta desde 142.250.217.174: bytes=32 tiempo=130ms TTL=113
+Respuesta desde 142.250.217.174: bytes=32 tiempo=72ms TTL=113
+Respuesta desde 142.250.217.174: bytes=32 tiempo=77ms TTL=113
+
+Estad¡sticas de ping para 142.250.217.174:
+    Paquetes: enviados = 4, recibidos = 4, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 72ms, M ximo = 130ms, Media = 88ms
+
